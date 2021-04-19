@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mikael
 - 👀 I’m new and interested in cybersecurity topics
 - 🌱 I’m currently learning anything related to this topic
-- 💞️ I’m looking to collaborate on with anyone to exchange benefits 
+- 💞️ I’m looking to collaborate on with anyone to exchange experiences
 - 📫 How to reach me: On an app called "wire", search for my username "@komel_m" :)
 
 <!---
